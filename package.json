@@ -1,0 +1,26 @@
+{
+  "name": "005-http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node -r dotenv/config index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlenaNosova/005-http.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlenaNosova/005-http/issues"
+  },
+  "homepage": "https://github.com/AlenaNosova/005-http#readme",
+  "devDependencies": {
+    "dotenv": "^16.3.1"
+  },
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
